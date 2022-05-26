@@ -1,0 +1,5 @@
+homepage: "https://tnksn.com"
+documentation: "https://tanakasan.notion.site/GTM-cb89726dcaf34c389b8503b19b82d3c3"
+versions:
+  - sha: 3b6284589ef5fa68744959fd7a624a00b8c08b17
+    changeNotes: Initial release.
